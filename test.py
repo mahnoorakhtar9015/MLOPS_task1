@@ -1,4 +1,4 @@
-from hello import add
+from code import add
 
 def test_add():
     assert 4 == add(2,2)
