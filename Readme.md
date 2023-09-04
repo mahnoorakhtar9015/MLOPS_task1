@@ -1,3 +1,4 @@
+[![Python application](https://github.com/mahnoorakhtar9015/MLOPS_task1/actions/workflows/python-app.yml/badge.svg)](https://github.com/mahnoorakhtar9015/MLOPS_task1/actions/workflows/python-app.yml)
 Scaffolding
 
 Makefile: Contains all the commands to execute and install
